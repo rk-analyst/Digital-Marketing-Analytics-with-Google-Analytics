@@ -1,4 +1,4 @@
-# Digital-Marketing-Analytics-with-Google-Analytics
+# Flood-It! App Analytics with Google Analytics
 
 #### <ins>Google Analytics Dashboard</ins>
 Link to the Google Analytics Dashboard: https://analytics.google.com/analytics/web/#/p153293282/reports/intelligenthome
