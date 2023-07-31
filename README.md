@@ -1,5 +1,8 @@
 # Digital-Marketing-Analytics-with-Google-Analytics
 
+#### <ins>Google Analytics Dashboard</ins>
+Link to the Google Analytics Dashboard: https://analytics.google.com/analytics/web/#/p153293282/reports/intelligenthome
+
 #### <ins> Case Background </ins>
 
 Charcoal Games, the owner of the Flood-It! App, has just hired you to develop data-driven insights based on their Google Analytics data. Their management team has tasked you with answering the questions listed below. Finally, management has also explained that they are not interested in improving the aesthetics of the app (for example, do not recommend giving the app a facelift), and they are not interested in your process (focus on your results).
@@ -27,3 +30,5 @@ Recommended Date Range: The past 30 days
 4. Offer one other key insight from your analysis. Make sure this is relevant and actionable.
 
 5. Propose 5 keywords they should bid on for paid search, including their reach, a proposed bid price, and key competitors for these keywords. Note that their goal is to have a monthly search volume of 250,000 and click volume of 2,500 within their target audience (assume a 1% click through rate). Explain as to whether or not you feel these are feasible goals.
+
+
